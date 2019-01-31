@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabPagerLayout">
+        <attr name="tab_Background" format="color"/>
+        <attr name="tab_IndicatorColor" format="color"/>
+        <attr name="tab_IndicatorHeight" format="dimension"/>
+        <attr name="tab_Mode" format="string"/>
+        <attr name="tab_UnselectedTextColor" format="color"/>
+        <attr name="tab_SelectedTextColor" format="color"/>
+        <attr name="tab_TextAppearance" format="reference"/>
+    </declare-styleable>
+</resources>

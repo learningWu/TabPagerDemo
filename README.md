@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
+//添加至layout文件
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
